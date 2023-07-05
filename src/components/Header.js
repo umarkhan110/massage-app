@@ -15,7 +15,7 @@ const Header = () => {
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav menu-nav">
                             <li class="list-view ">
-                                {/* <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Massage<b class="caret"></b></a> */}
+                                <a href="/" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Massage<b class="caret"></b></a>
                                 <ul class="dropdown-menu multi-level">
                                     <li><a href="in-home-massage.html">In-home Massage</a></li>
                                     <li><a href="mobile-massage.html">Mobile Massage</a></li>
