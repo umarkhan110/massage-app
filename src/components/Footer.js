@@ -21,12 +21,12 @@ const Footer = () => {
                             <div class="footer-nav">
                                 <ul class="nav navbar-nav menu-nav">
                                 <li class="list-view ">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Massage<b class="caret"></b></a>
+                                    <a href="/" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Massage<b class="caret"></b></a>
                                     <ul class="dropdown-menu multi-level">
                                         <li><a href="in-home-massage.html">In-home Massage</a></li>
                                         <li><a href="mobile-massage.html">Mobile Massage</a></li>
                                         <li class="dropdown-submenu list-view">
-                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Massage Types</a>
+                                                <a href="/" class="dropdown-toggle" data-toggle="dropdown">Massage Types</a>
                                                 <ul class="dropdown-menu list-view">
                                                 <a class="dropdown-item" href="massage-types/swedish-massage.html">Swedish</a>
                                                 <a class="dropdown-item" href="massage-types/deep-tissue-massage.html">Deep Tissue</a>
@@ -39,7 +39,7 @@ const Footer = () => {
                                                 </ul>
                                         </li>
                                         <li class="dropdown-submenu list-view">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pricing</a>
+                                            <a href="/" class="dropdown-toggle" data-toggle="dropdown">Pricing</a>
 											 <ul class="dropdown-menu list-view">
 												<a class="dropdown-item" href="massage-atlanta-ga.html">Atlanta</a>
 												<a class="dropdown-item" href="massage-austin.html">Austin</a>
@@ -67,11 +67,11 @@ const Footer = () => {
                                 </li>                               
                                 
                                 <li class="list-view ">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Yoga<b class="caret"></b></a>
+                                    <a href="/" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Yoga<b class="caret"></b></a>
                                     <ul class="dropdown-menu multi-level">
                                        <li><a href="private-yoga.html">Private Yoga</a></li>
                                         <li class="dropdown-submenu list-view">
-                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Yoga Types</a>
+                                                <a href="/" class="dropdown-toggle" data-toggle="dropdown">Yoga Types</a>
                                                 <ul class="dropdown-menu list-view">
                                                 <a class="dropdown-item" href="yoga-types/flow-yoga.html">Flow</a>
                                                 <a class="dropdown-item" href="yoga-types/alignment-yoga.html">Alignment</a>
@@ -82,7 +82,7 @@ const Footer = () => {
                                                 </ul>
                                         </li>
                                         <li class="dropdown-submenu list-view">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pricing</a>
+                                            <a href="/" class="dropdown-toggle" data-toggle="dropdown">Pricing</a>
                                             <ul class="dropdown-menu list-view">
                                                 <a class="dropdown-item" href="private-yoga-los-angeles.html">Los Angeles</a>
                                         <a class="dropdown-item" href="private-yoga-new-york.html">Greater New York</a>

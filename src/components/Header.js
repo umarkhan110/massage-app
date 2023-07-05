@@ -15,12 +15,12 @@ const Header = () => {
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav menu-nav">
                             <li class="list-view ">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Massage<b class="caret"></b></a>
+                                {/* <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Massage<b class="caret"></b></a> */}
                                 <ul class="dropdown-menu multi-level">
                                     <li><a href="in-home-massage.html">In-home Massage</a></li>
                                     <li><a href="mobile-massage.html">Mobile Massage</a></li>
 									<li class="dropdown-submenu list-view">
-											<a href="#" class="dropdown-toggle" data-toggle="dropdown">Massage Types</a>
+											{/* <a href="#" class="dropdown-toggle" data-toggle="dropdown">Massage Types</a> */}
 											<ul class="dropdown-menu list-view">
 											 <a class="dropdown-item" href="massage-types/swedish-massage.html">Swedish</a>
 											<a class="dropdown-item" href="massage-types/deep-tissue-massage.html">Deep Tissue</a>
@@ -33,7 +33,7 @@ const Header = () => {
 											</ul>
                                     </li>
                                     <li class="dropdown-submenu list-view">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pricing</a>
+                                        {/* <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pricing</a> */}
                                         <ul class="dropdown-menu list-view">
                                             <a class="dropdown-item" href="massage-atlanta-ga.html">Atlanta</a>
                                             <a class="dropdown-item" href="massage-austin.html">Austin</a>
@@ -68,11 +68,11 @@ const Header = () => {
 							
 							
 							<li class="list-view ">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Yoga<b class="caret"></b></a>
+                                {/* <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Yoga<b class="caret"></b></a> */}
                                 <ul class="dropdown-menu multi-level">
                                     <li><a href="private-yoga.html">Private Yoga</a></li>
  									<li class="dropdown-submenu list-view">
-											<a href="#" class="dropdown-toggle" data-toggle="dropdown">Yoga Types</a>
+											{/* <a href="#" class="dropdown-toggle" data-toggle="dropdown">Yoga Types</a> */}
 											<ul class="dropdown-menu list-view">
 											 <a class="dropdown-item" href="yoga-types/flow-yoga.html">Flow</a>
 											<a class="dropdown-item" href="yoga-types/alignment-yoga.html">Alignment</a>
@@ -83,7 +83,7 @@ const Header = () => {
 											</ul>
                                     </li>
 									<li class="dropdown-submenu list-view">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pricing</a>
+                                        {/* <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pricing</a> */}
                                         <ul class="dropdown-menu list-view">
                                             <a class="dropdown-item" href="private-yoga-los-angeles.html">Los Angeles</a>
                                     <a class="dropdown-item" href="private-yoga-new-york.html">Greater New York</a>
@@ -122,14 +122,14 @@ const Header = () => {
                             </li>
   
                             <li class=""><a href="/book" class="com-btn-view bookingclass">Book Now</a></li>
-                            <li class="mobile_only">
+                            {/* <li class="mobile_only">
                                 <a href="https://apps.apple.com/us/app/bigtoe-yoga/id1198583047" target="_blank" >
                                     <img src="/assets/images/app-store.png" />
                                 </a>
                                  <a href="https://play.google.com/store/apps/details?id=fit.bigtoe.bigtoeyoga&amp;hl=en" target="_blank" >
                                     <img src="/assets/images/google-play.png" />
                                 </a> 
-                            </li>
+                            </li> */}
                         </ul>
 
                     </div>

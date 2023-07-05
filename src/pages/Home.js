@@ -23,7 +23,7 @@ const Home = () => {
                             <h1>The easiest way to book</h1>
                             <h1>
                         <span>
-                             <a href="#" class="typewrite" data-period="500" data-type='["Massage on Demand","Private Yoga Classes"]'>
+                             <a href="/" class="typewrite" data-period="500" data-type='["Massage on Demand","Private Yoga Classes"]'>
                                 <span class="wrap"></span>
                               </a>
                         </span>
@@ -41,7 +41,7 @@ const Home = () => {
                             <h1>The easiest way to book</h1>
                             <h1>
                         <span>
-                             <a href="#" class="typewrite" data-period="500" data-type='["Massage on Demand","Private Yoga Classes"]'>
+                             <a href="/" class="typewrite" data-period="500" data-type='["Massage on Demand","Private Yoga Classes"]'>
                                 <span class="wrap"></span>
                               </a>
                         </span>
@@ -101,11 +101,11 @@ const Home = () => {
                     </div>
                     <div class="col-xs-12 container-split">
                         <div class="images-wrap">
-                            <img src="/assets/images/try-it.png" id="w-node-bce4b176c38b-b176c381" sizes="(max-width: 479px) 42vw, (max-width: 767px) 26vw, (max-width: 991px) 27vw, 16vw" alt="Image 1" />
-                            <img src="/assets/images/5c9222668f811ac981de17dc_IMG_3387.gif" id="w-node-bce4b176c38c-b176c381" sizes="(max-width: 479px) 42vw, (max-width: 767px) 26vw, (max-width: 991px) 27vw, 16vw" alt="Image 2" />
-                            <img src="/assets/images/5c922507e8b0db17ce8c00eb_Webp.net-gifmaker.gif" alt="Image 3" />
-                            <img src="/assets/images/5c92253017f49d17259cedc9_IMG_3383-p-5001.png" id="w-node-bce4b176c38d-b176c381" sizes="(max-width: 479px) 42vw, (max-width: 767px) 26vw, (max-width: 991px) 27vw, 16vw" alt="Image 4" />
-                            <img src="/assets/images/5c9b746f94b20f95bfed865f_IMG_3381.png" alt="Image 5" />
+                            <img src="/assets/images/try-it.png" id="w-node-bce4b176c38b-b176c381" sizes="(max-width: 479px) 42vw, (max-width: 767px) 26vw, (max-width: 991px) 27vw, 16vw" alt="Immage 1" />
+                            <img src="/assets/images/5c9222668f811ac981de17dc_IMG_3387.gif" id="w-node-bce4b176c38c-b176c381" sizes="(max-width: 479px) 42vw, (max-width: 767px) 26vw, (max-width: 991px) 27vw, 16vw" alt="Imasdge 2" />
+                            <img src="/assets/images/5c922507e8b0db17ce8c00eb_Webp.net-gifmaker.gif" alt="Imagdsdse 3" />
+                            <img src="/assets/images/5c92253017f49d17259cedc9_IMG_3383-p-5001.png" id="w-node-bce4b176c38d-b176c381" sizes="(max-width: 479px) 42vw, (max-width: 767px) 26vw, (max-width: 991px) 27vw, 16vw" alt="Imageds4" />
+                            <img src="/assets/images/5c9b746f94b20f95bfed865f_IMG_3381.png" alt="Imag5" />
 
                         </div>
                     </div>
@@ -201,7 +201,7 @@ const Home = () => {
                                     <a href="https://apps.apple.com/us/app/bigtoe-yoga/id1198583047">
                                         <img src="/assets/images/app-store.png" alt="app-store" />
                                     </a>
-                                    <a href="https://play.google.com/store/apps/details?id=fit.bigtoe.bigtoeyoga&amp;hl=en" target="_blank">
+                                    <a href="https://play.google.com/store/apps/details?id=fit.bigtoe.bigtoeyoga&amp;hl=en" >
                                         <img src="/assets/images/google-play.png" alt="google-play" />
                                     </a>
                                 </div>
@@ -221,7 +221,7 @@ const Home = () => {
             <a href="https://apps.apple.com/us/app/bigtoe-yoga/id1198583047">
                 <img src="/assets/images/app-store.png" alt="app-store" />
             </a>
-             <a href="https://play.google.com/store/apps/details?id=fit.bigtoe.bigtoeyoga&amp;hl=en" target="_blank">
+             <a href="https://play.google.com/store/apps/details?id=fit.bigtoe.bigtoeyoga&amp;hl=en" >
                 <img src="/assets/images/google-play.png" alt="google-play" />
             </a> 	
         </div>
